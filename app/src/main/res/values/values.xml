@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <integer-array name="filter_images">
+        <item>@drawable/ic_filter</item>
+        <item>@drawable/ic_owned</item>
+        <item>@drawable/ic_ordered</item>
+        <item>@drawable/ic_wishlist</item>
+        <item>@drawable/ic_recent</item>
+    </integer-array>
+
+    <string-array name="filter_choices">
+        <item>@string/All</item>
+        <item>@string/Owned</item>
+        <item>@string/Ordered</item>
+        <item>@string/Wishlist</item>
+        <item>@string/Recent</item>
+    </string-array>
+
+</resources>
